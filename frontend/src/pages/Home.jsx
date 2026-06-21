@@ -12,7 +12,8 @@ import ServiceCard from '../components/ServiceCard'
 import RoomCard from '../components/RoomCard'
 import TestimonialCard from '../components/TestimonialCard'
 import Counter from '../components/Counter'
-import { hotelInfo, stats, services, rooms, testimonials } from '../constants/hotelData'
+import FAQ from '../components/FAQ'
+import { hotelInfo, stats, services, rooms, testimonials, faqs } from '../constants/hotelData'
 
 const Home = () => {
   const heroImages = [
