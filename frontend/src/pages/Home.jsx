@@ -298,6 +298,29 @@ const Home = () => {
         </div>
       </section>
 
+      {/* FAQ Section */}
+      <section className="py-20 px-4">
+        <div className="max-w-4xl mx-auto">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="text-center mb-16"
+          >
+            <p className="text-gold text-sm tracking-[0.3em] uppercase mb-4">
+              FAQ
+            </p>
+            <h2 className="text-4xl md:text-5xl font-playfair font-bold text-primary mb-6">
+              Frequently Asked Questions
+            </h2>
+            <p className="text-gray">
+              Find answers to common questions about your stay
+            </p>
+          </motion.div>
+          <FAQ faqs={faqs} />
+        </div>
+      </section>
+
       {/* CTA Section */}
       <section className="relative py-32 px-4">
         <div className="absolute inset-0">
