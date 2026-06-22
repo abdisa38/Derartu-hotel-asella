@@ -176,7 +176,7 @@ const About = () => {
               className="relative h-96 rounded-luxury overflow-hidden shadow-2xl"
             >
               <img
-                src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2069"
+                src="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1920"
                 alt="Hotel Team"
                 className="w-full h-full object-cover"
               />
@@ -204,7 +204,7 @@ const About = () => {
             </p>
             <div className="aspect-video rounded-luxury overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1524850011238-e3d235c7d4c9?q=80&w=2076"
+                src="https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=1920"
                 alt="Asella City"
                 className="w-full h-full object-cover"
               />

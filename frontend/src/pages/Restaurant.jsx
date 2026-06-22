@@ -115,12 +115,12 @@ const Restaurant = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
-              'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070',
-              'https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=2074',
-              'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=2087',
-              'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2070',
-              'https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=2070',
-              'https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=2087',
+              'https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1920',
+              'https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1920',
+              'https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1920',
+              'https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=1920',
+              'https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1920',
+              'https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg?auto=compress&cs=tinysrgb&w=1920',
             ].map((image, index) => (
               <motion.div
                 key={index}

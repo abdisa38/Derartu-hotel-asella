@@ -30,8 +30,8 @@ const RoomDetails = () => {
   // Multiple images for gallery
   const roomImages = [
     room.image,
-    'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070',
-    'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071',
+    'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1920',
+    'https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1920',
   ]
 
   return (

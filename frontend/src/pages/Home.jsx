@@ -17,9 +17,9 @@ import { hotelInfo, stats, services, rooms, testimonials, faqs } from '../consta
 
 const Home = () => {
   const heroImages = [
-    'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070',
-    'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070',
-    'https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=2070',
+    'https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1920',
+    'https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1920',
+    'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1920',
   ]
 
   return (
@@ -125,7 +125,7 @@ const Home = () => {
             >
               <div className="relative h-[500px] rounded-luxury overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070"
+                  src="https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1920"
                   alt="Hotel Interior"
                   className="w-full h-full object-cover"
                 />
@@ -138,7 +138,7 @@ const Home = () => {
                 className="absolute -bottom-8 -right-8 w-64 h-64 rounded-luxury overflow-hidden shadow-2xl hidden md:block"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071"
+                  src="https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1920"
                   alt="Hotel Room"
                   className="w-full h-full object-cover"
                 />
@@ -325,7 +325,7 @@ const Home = () => {
       <section className="relative py-32 px-4">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=2080"
+            src="https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1920"
             alt="Hotel"
             className="w-full h-full object-cover"
           />

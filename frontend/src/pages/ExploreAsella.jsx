@@ -129,7 +129,7 @@ const ExploreAsella = () => {
               className="relative h-96 rounded-luxury overflow-hidden shadow-2xl"
             >
               <img
-                src="https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=2070"
+                src="https://images.pexels.com/photos/2803158/pexels-photo-2803158.jpeg?auto=compress&cs=tinysrgb&w=1920"
                 alt="Running in Asella"
                 className="w-full h-full object-cover"
               />
