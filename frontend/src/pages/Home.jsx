@@ -17,9 +17,9 @@ import { hotelInfo, stats, services, rooms, testimonials, faqs } from '../consta
 
 const Home = () => {
   const heroImages = [
-    'https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1920',
-    'https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1920',
-    'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1920',
+    'https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQxNXnjlhMZZ_QgtSX3dtguGPJ-n0WvAsbNxqu1rLG3hO_UKX_ncEcsHriF9DwLu_DiX6tYTW2WuwHqUMa-iJ-pL18e-S63pxq_RWivVrobzTI8BR1US6RFiG6gZWA2pVdYY1U=s680-w680-h510-rw',
+    'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFerrzNn7DOMjB8OVC17uTVIHuU7HR46Wp2LqO-dKXYXQKV-owHrVvOt8gOrT4HhnV4dZd-vyysxmszScajmZ9cc34HW5-1XnXpMrNVwG-Nz2vevGmenc-K66XTSO_sa8-1MlGv=s680-w680-h510-rw',
+    'https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiG_3uaYHbEhuXcnG5vfVHf9H5KXNIp2c6GRWnn4UiEA6SUxlqjTZXOh9rBSoZVTJgy6sbaIqUZzy8sxXi29dfblPEs8CkOm2bTRS4AivAysJRFebkIAvKc1RMzl0k_fySCL0y=s680-w680-h510-rw',
   ]
 
   return (
@@ -125,7 +125,7 @@ const Home = () => {
             >
               <div className="relative h-[500px] rounded-luxury overflow-hidden">
                 <img
-                  src="https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1920"
+                  src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqzqd6D2s6yUwuMSNgNH6FAPInbBUZRSCOSevpkmjKEzABvJNMngKWU4w_BT4sthTyT9zN1EZnBmqMIssiZ0jLJg5ANij-xG9m8qbSGYLmLjS39-qzyc1EIbDgqN7YSTgCTTrZmDk9r4Tj=s680-w680-h510-rw"
                   alt="Hotel Interior"
                   className="w-full h-full object-cover"
                 />
@@ -138,7 +138,7 @@ const Home = () => {
                 className="absolute -bottom-8 -right-8 w-64 h-64 rounded-luxury overflow-hidden shadow-2xl hidden md:block"
               >
                 <img
-                  src="https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1920"
+                  src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAFerrzNn7DOMjB8OVC17uTVIHuU7HR46Wp2LqO-dKXYXQKV-owHrVvOt8gOrT4HhnV4dZd-vyysxmszScajmZ9cc34HW5-1XnXpMrNVwG-Nz2vevGmenc-K66XTSO_sa8-1MlGv=s680-w680-h510-rw"
                   alt="Hotel Room"
                   className="w-full h-full object-cover"
                 />
